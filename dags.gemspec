@@ -4,8 +4,8 @@ require File.expand_path('../lib/dags/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["Martin Rhoads"]
   gem.email         = ["martin@cloudscaling.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{dags}
+  gem.summary       = %q{dags}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($\)
